@@ -13,7 +13,7 @@ English | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md)
 - Real-time updates on trending news
 - GitHub OAuth login with data synchronization
 - 30-minute default cache duration (logged-in users can force refresh)
-- Adaptive scraping interval (minimum 2 minutes) based on source update frequency to optimize resource usage and prevent IP bans
+- Adaptive scraping interval (minimum 2 分钟之 前) based on source update frequency to optimize resource usage and prevent IP bans
 - support MCP server
 
 ```json
